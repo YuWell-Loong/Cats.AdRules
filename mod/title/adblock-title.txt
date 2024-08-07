@@ -1,0 +1,7 @@
+[Adblock Plus 2.0]
+! Title: AdRules AdBlock List
+! Homepage: https://ad.yuwell.dynv6.net
+! Powerd by 5️⃣i計劃通行
+! Expires: 1 day (update frequency)
+! Description: Merge from EasyList,EasyListChina etc. and Add Some Rules.
+! 
