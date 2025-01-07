@@ -1,0 +1,8 @@
+[Adblock Plus 2.0]
+! Title: CHN: AdRules 橘猫のとおり道 DNS List
+! Homepage: https://CHN.5i計劃通行.net.cn
+! Powerd by 5️⃣i計劃通行
+! Expires: 1 day (update frequency)
+! Description: The DNS Filters
+! ------------------------------------
+
